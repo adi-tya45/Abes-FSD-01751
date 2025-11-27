@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.heading{
+    background-color: antiquewhite;
+    margin: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 20px;
+    text-align: center;
+    color: rgb(195, 118, 17);
+}
+
+.content{
+
+    margin-left: 600px;
+    margin-right: 600px;
+
+    background-color: whitesmoke;
+
+}
+
+
+.image{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+#heading3{
+    padding: 20px;
+}
+
+.contents{
+    display: flex;
+    justify-content: center;
+}
+
+#button{
+    padding: 10px;
+    margin: 10px;
+    margin-left: 115px;
+    background-color:rgb(204, 177, 141);
+    color: beige;
+    transition: transform 0.3s ease;
+
+}
+
+#button:hover{
+    transform: scale(1.1);
+}
