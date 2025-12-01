@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav_bar{
+    background-color: #222222;
+    padding: 25px;
+    margin: 25px;
+  
+
+}
+
+#header{
+    color: #ddd8ce;
+    display: flex;
+}
+
+.nav_bar_content{
+    margin: 20px;
+    padding: 20px;
+    padding-left: 0px;
+    margin-left: 0px;
+}
+
+.nav_bar_content_links{
+    color: #ddd8ce;
+    text-decoration: none;
+    padding: 20px;
+    background-color:#7234fa;
+    
+}
